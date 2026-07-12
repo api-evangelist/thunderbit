@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://thunderbit.com/docs/introduction
 common:
+  - type: DomainSecurity
+    url: security/thunderbit-domain-security.yml
   - type: Website
     url: https://thunderbit.com/docs/introduction
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://thunderbit.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
