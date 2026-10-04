@@ -39,7 +39,6 @@ apis:
   - name: Thunderbit
     description: "Extract web pages as Markdown or structured data for AI apps"
     humanURL: https://thunderbit.com/docs/introduction
-    baseURL: https://thunderbit.com/docs/introduction
     tags:
       - Development
     properties:
